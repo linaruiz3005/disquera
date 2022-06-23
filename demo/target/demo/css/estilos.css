@@ -1,0 +1,24 @@
+h1 {
+    padding: 40px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: #050202;
+}
+
+body {
+    background-image: url(https://www.grandesnegociosrentables.com/wp-content/uploads/2015/04/como-abrir-una-disquera.jpg);
+}
+
+div {
+    opacity: .5;
+    background:  rgb(170, 170, 170);
+    text-align: center;
+    height: 500px;
+    width: 600px;
+}
+label{
+    color: #050202;
+}
+
+
+
